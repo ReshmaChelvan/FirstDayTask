@@ -1,0 +1,23 @@
+            OBJECT AND ITS INTERNAL REPRESENTATION IN JAVASCRIPT
+
+
+
+JavaScript having two type of datatype like
+            *Primitive Datatype
+            *Non-Primitive Datatype
+
+OBJECT: 
+=> objects are collections of key-value pairs, where keys are strings (or symbols) and values can be of any data type, including other objects.
+=> Objects are used to represent real-world entities, data structures, and more complex data types
+=>Objects are NON-PRIMITIVE DATATYPE.
+=>Objects can hold many values in form of Key: value pair. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+
+EXAMPLE: internal representation means we can use all the datatypes like (Number,string,Boolean,null,undefined) with in a object literal
+    
+OBJECT:
+       let School = {
+         Name:"xxx",
+         Class:4,
+         email:"jijojiojuo@gmail.com"
+                     }
+ 
